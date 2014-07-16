@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter vesion="1.0">
+    <filter root="/content/myContent"/>
+    <filter root="/etc/designs/aemTraining/jcr:content"/>
+</workspaceFilter>

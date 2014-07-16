@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter vesion="1.0">
+    <filter root="/apps/aemTraining">
+        
+        <exclude pattern="/apps/aemTraining/runmodes"/>
+    </filter>
+	<filter root="/etc/designs/default/jcr:content/contentPage"/>
+</workspaceFilter>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2014-06-30T14:50:21.377+03:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/aemTraining/templates/contentPage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="All"
+        jcr:uuid="53c498e5-e5be-4082-a657-83dbce148fa6"
+        sling:resourceType="aemTraining/components/contentPage"/>
+</jcr:root>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    title="myDialog"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <News
+                jcr:primaryType="cq:Widget"
+                title="News"
+                xtype="panel">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <rootPath
+                        jcr:primaryType="nt:unstructured"
+                        fieldLabel="Root page"
+                        name="./rootPathNews"
+                        xtype="pathfield"/>
+                    <scndLvlMenu
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Second level menu"
+                        name="./multiPathNews"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="nt:unstructured"
+                            xtype="pathfield"/>
+                    </scndLvlMenu>
+                </items>
+            </News>
+            <Events
+                jcr:primaryType="cq:Widget"
+                title="Events"
+                xtype="panel">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <rootPath
+                        jcr:primaryType="nt:unstructured"
+                        fieldLabel="Root page"
+                        name="./rootPathEvents"
+                        ranking="{Long}1"
+                        xtype="pathfield"/>
+                    <scndLvlMenu
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Second level menu"
+                        name="./multiPathEvents"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="nt:unstructured"
+                            xtype="pathfield"/>
+                    </scndLvlMenu>
+                </items>
+            </Events>
+            <Communities
+                jcr:primaryType="cq:Widget"
+                title="Communities&#xa;"
+                xtype="panel">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <rootPath
+                        jcr:primaryType="nt:unstructured"
+                        fieldLabel="Root page"
+                        name="./rootPathCommunities"
+                        ranking="{Long}1"
+                        xtype="pathfield"/>
+                    <scndLvlMenu
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Second level menu"
+                        name="./multiPathCommunities"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="nt:unstructured"
+                            xtype="pathfield"/>
+                    </scndLvlMenu>
+                </items>
+            </Communities>
+            <Toolkit
+                jcr:primaryType="cq:Widget"
+                title="Toolkit"
+                xtype="panel">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <rootPath
+                        jcr:primaryType="nt:unstructured"
+                        fieldLabel="Root page"
+                        name="./rootPathToolkit"
+                        ranking="{Long}1"
+                        xtype="pathfield"/>
+                    <scndLvlMenu
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Second level menu"
+                        name="./multiPathToolkit"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="nt:unstructured"
+                            xtype="pathfield"/>
+                    </scndLvlMenu>
+                </items>
+            </Toolkit>
+            <Media
+                jcr:primaryType="cq:Widget"
+                title="Media">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <rootPath
+                        jcr:primaryType="nt:unstructured"
+                        fieldLabel="Root page"
+                        name="./rootPathMedia"
+                        ranking="{Long}1"
+                        xtype="pathfield"/>
+                    <scndLvlMenu
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Second level menu"
+                        name="./multiPathMedia"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="nt:unstructured"
+                            xtype="pathfield"/>
+                    </scndLvlMenu>
+                </items>
+            </Media>
+        </items>
+    </items>
+</jcr:root>
