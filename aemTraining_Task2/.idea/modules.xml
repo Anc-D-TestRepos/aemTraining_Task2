@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aemTraining-content/aemTraining-content.iml" filepath="$PROJECT_DIR$/aemTraining-content/aemTraining-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aemTraining-view/aemTraining-view.iml" filepath="$PROJECT_DIR$/aemTraining-view/aemTraining-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aemTraining-taglib/custonNodeTagLib.iml" filepath="$PROJECT_DIR$/aemTraining-taglib/custonNodeTagLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -3,4 +3,4 @@
     jcr:description="mainnavigable"
     jcr:primaryType="cq:Component"
     jcr:title="navigable"
-    sling:resourceSuperType="foundation/components/parbase"/>
+    sling:resourceSuperType="foundation/components/page"/>

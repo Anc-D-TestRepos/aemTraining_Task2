@@ -17,6 +17,6 @@
             jcr:primaryType="nt:unstructured"
             imageRotate="0"/>
     </jcr:content>
-    <all-updates/>
-    <list-of-communities/>
+    <All-updates/>
+    <List-of-communities/>
 </jcr:root>

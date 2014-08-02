@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taglib xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd">
+    <description>A JSP custom Tag Library for use within JSPs in the my-cq-project CQ project.          During development this bundle can be automatically deployed to your CQ instance by activating the         &amp;quot;auto-deploy&amp;quot; profile and running the Maven &amp;quot;install&amp;quot; lifecycle phase (e.g. &amp;quot;mvn -Pauto-deploy install&amp;quot;). This         can also be done from within most IDEs like Eclipse.</description>
+    <tlib-version>1.0</tlib-version>
+    <short-name>xxx</short-name>
+    <uri>http://example.cqblueprints.com/taglibs/customTagLib</uri>
+</taglib>

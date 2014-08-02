@@ -17,9 +17,9 @@
             jcr:primaryType="nt:unstructured"
             imageRotate="0"/>
     </jcr:content>
-    <all/>
-    <official/>
-    <competency_centers/>
-    <production/>
-    <career/>
+    <All/>
+    <Official/>
+    <Competency_x0020_centers/>
+    <Production/>
+    <Career/>
 </jcr:root>

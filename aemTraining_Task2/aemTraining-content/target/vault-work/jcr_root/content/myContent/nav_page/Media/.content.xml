@@ -17,9 +17,9 @@
             jcr:primaryType="nt:unstructured"
             imageRotate="0"/>
     </jcr:content>
-    <all/>
-    <career/>
-    <fun/>
-    <it-events/>
-    <oficcial/>
+    <All/>
+    <Career/>
+    <Fun/>
+    <It-events/>
+    <Official/>
 </jcr:root>
