@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-<comment>aemTraining.task2 - aemTraining-content</comment>
+<comment>com.cqblueprints.example - aemTraining-content</comment>
 <entry key="createdBy">Администратор</entry>
 <entry key="name">aemTraining-content</entry>
-<entry key="created">2014-07-16T02:02:59.290+0200</entry>
-<entry key="groupId">aemTraining.task2</entry>
+<entry key="created">2014-08-03T00:35:14.519+0200</entry>
+<entry key="groupId">com.cqblueprints.example</entry>
 <entry key="version">1.0</entry>
 <entry key="requiresRoot">false</entry>
-<entry key="group">aemTraining.task2</entry>
+<entry key="group">com.cqblueprints.example</entry>
 <entry key="description">A CQ content package containing the initial content used during the develop phase. By allowing developers to
         share content this way, it allows for easier testing during early development.
 
@@ -20,5 +20,5 @@
         line tool available with CQ. There is also a plugin for Eclipse called "vaultclipse" that can be used instead
         of the command line tool.</entry>
 <entry key="artifactId">aemTraining-content</entry>
-<entry key="path">/etc/packages/aemTraining.task2/aemTraining-content.zip</entry>
+<entry key="path">/etc/packages/com.cqblueprints.example/aemTraining-content.zip</entry>
 </properties>

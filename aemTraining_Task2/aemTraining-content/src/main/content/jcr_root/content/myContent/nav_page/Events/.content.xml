@@ -17,9 +17,9 @@
             jcr:primaryType="nt:unstructured"
             imageRotate="0"/>
     </jcr:content>
-    <all/>
-    <days-off/>
-    <internal--conferences/>
-    <parties/>
-    <sports/>
+    <All/>
+    <Days_x0020_off/>
+    <Internal_x0020_conferences/>
+    <Parties/>
+    <Sports/>
 </jcr:root>

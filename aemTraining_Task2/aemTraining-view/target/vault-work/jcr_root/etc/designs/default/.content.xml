@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2014-06-30T15:47:24.266+03:00"
+        cq:lastModified="{Date}2014-07-15T01:20:01.016+02:00"
         cq:lastModifiedBy="admin"
         jcr:primaryType="nt:unstructured"
         jcr:title="Default Design"
@@ -27,10 +27,10 @@
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="aemTraining/components/navigable"
-                multiPathCommunities="[/content/myContent/nav_page/Communities/all-updates,/content/myContent/nav_page/Communities/list-of-communities]"
-                multiPathEvents="[/content/myContent/nav_page/Events/all,/content/myContent/nav_page/Events/days-off,/content/myContent/nav_page/Events/internal--conferences,/content/myContent/nav_page/Events/sports]"
-                multiPathMedia="[/content/myContent/nav_page/Media/all,/content/myContent/nav_page/Media/career,/content/myContent/nav_page/Media/fun,/content/myContent/nav_page/Media/it-events,/content/myContent/nav_page/Media/oficcial]"
-                multiPathNews="[/content/myContent/nav_page/News/all,/content/myContent/nav_page/News/official,/content/myContent/nav_page/News/competency_centers,/content/myContent/nav_page/News/production,/content/myContent/nav_page/News/career]"
+                multiPathCommunities="[/content/myContent/nav_page/Communities/All-updates,/content/myContent/nav_page/Communities/List-of-communities]"
+                multiPathEvents="[/content/myContent/nav_page/Events/All,/content/myContent/nav_page/Events/Days off,/content/myContent/nav_page/Events/Internal conferences,/content/myContent/nav_page/Events/Sports]"
+                multiPathMedia="[/content/myContent/nav_page/Media/All,/content/myContent/nav_page/Media/Career,/content/myContent/nav_page/Media/Fun,/content/myContent/nav_page/Media/It-events,/content/myContent/nav_page/Media/Official]"
+                multiPathNews="[/content/myContent/nav_page/News/All,/content/myContent/nav_page/News/Official,/content/myContent/nav_page/News/Competency centers,/content/myContent/nav_page/News/Production,/content/myContent/nav_page/News/Career]"
                 rootPathCommunities="/content/myContent/nav_page/Communities"
                 rootPathEvents="/content/myContent/nav_page/Events"
                 rootPathMedia="/content/myContent/nav_page/Media"

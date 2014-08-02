@@ -6,6 +6,6 @@
         cq:lastModifiedBy="admin"
         cq:template="/apps/aemTraining/templates/contentPage"
         jcr:primaryType="cq:PageContent"
-        jcr:title="List of communities"
+        jcr:title="List-of-communities"
         sling:resourceType="aemTraining/components/contentPage"/>
 </jcr:root>

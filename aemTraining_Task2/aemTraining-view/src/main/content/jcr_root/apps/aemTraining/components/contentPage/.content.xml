@@ -3,4 +3,4 @@
     jcr:description="myComponent"
     jcr:primaryType="cq:Component"
     jcr:title="contPage"
-    sling:resourceSuperType="&#xa;foundation/components/parbase"/>
+    sling:resourceSuperType="foundation/components/page"/>
